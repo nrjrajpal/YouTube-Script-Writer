@@ -1,0 +1,28 @@
+# Node modules for Next.js frontend
+frontend/node_modules/
+
+# Build output for Next.js
+frontend/.next/
+frontend/out/
+
+# Log files
+frontend/*.log
+
+# Environment variables
+frontend/.env
+backend/.env
+
+# Python virtual environment
+backend/.venv/
+backend/*.pyc
+backend/__pycache__/
+
+# Editor files
+*.swp
+*.swo
+*.DS_Store
+.idea/
+.vscode/
+
+# Miscellaneous
+*.log
